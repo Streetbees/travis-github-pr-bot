@@ -43,7 +43,6 @@ if __name__ == '__main__':
     results = sys.stdin.read().strip()
     comment = (
         """
-PEP8 results!
 ```
 {flake_results}
 ```
